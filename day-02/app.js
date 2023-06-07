@@ -6,10 +6,14 @@ let sobrenome = "Silva";
 let idade = 24;
 const numCliente = 12345;
 
+/*
 console.log(nome);
 console.log(sobrenome);
 console.log(idade);
 console.log(numCliente);
+*/
+
+console.log("Boa tarde Sr " + nome + ", " + "sua idade é " + idade)
 
 
 
